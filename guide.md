@@ -21,8 +21,8 @@ You will not need to modify anything.
 ## How to use
 How to use these will be explained with an example space shooter game, which uses the Fizzyo device as a controller.
 The basic principle of this space shooter game is:
--          The player controls the space ship to move left and right
--          The player is able to shoot lasers to destroy enemies.
+- The player controls the space ship to move left and right
+- The player is able to shoot lasers to destroy enemies.
 
 And the Fizzyo device has two possible inputs, breath detection and a button. The example game will have the player breath input to shoot the lasers, and the button to control the player movement.
 
